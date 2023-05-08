@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sort_by_name"
+          android:title="По названию"/>
+    <item android:id="@+id/sort_by_size"
+          android:title="По размеру"/>
+    <item android:id="@+id/sort_by_extension"
+          android:title="По расширению"/>
+    <item android:id="@+id/sort_by_date"
+          android:title="По дате"/>
+</menu>

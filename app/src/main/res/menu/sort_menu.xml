@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/increasing"
+          android:title="По возрастанию"/>
+    <item android:id="@+id/decreasing"
+          android:title="По убыванию"/>
+</menu>
